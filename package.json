@@ -1,0 +1,11 @@
+{
+  "name": "tavern-props",
+  "private": true,
+  "description": "Procedural stylized tavern props: turnaround renders, GLB and FBX",
+  "dependencies": {
+    "three": "0.160.0",
+    "@gltf-transform/core": "4.5.1",
+    "@gltf-transform/functions": "4.5.1",
+    "meshoptimizer": "0.22.0"
+  }
+}
