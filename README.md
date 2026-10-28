@@ -5,6 +5,13 @@
 
 ![обзор](sheets/00_overview.png)
 
+## Трейлер DICE
+
+Трейлер короткометражки **DICE** (1920×1080, 1:18):
+
+- **Смотреть / скачать, высокое качество (84 МБ):** [DICE_trailer.mp4](https://github.com/hammi-ko/tavern-props/raw/dice-trailer/trailer/DICE_trailer.mp4)
+- **Облегчённая версия (35 МБ):** [DICE_trailer_light.mp4](https://github.com/hammi-ko/tavern-props/raw/dice-trailer/trailer/DICE_trailer_light.mp4)
+
 ## Скачать
 
 - **FBX, лёгкая версия** (для игр и движков): [tavern_fbx_lite.zip](https://github.com/hammi-ko/tavern-props/raw/main/fbx/tavern_fbx_lite.zip)
@@ -33,6 +40,7 @@
 | `fbx/tavern_fbx_lite.zip` | **FBX, лёгкая версия** (10–250 тыс. треугольников): для игр и движков |
 | `fbx/tavern_fbx_full.zip` | **FBX, полная детализация** (до ~680 тыс. треугольников): для рендера, запекания нормалей, печати |
 | `models/<предмет>.glb` | сама 3D-модель (метры, низ на y = 0, перед смотрит в +Z), открывается в Blender, Unity, Unreal и в онлайн-просмотрщиках |
+| `trailer/` | трейлер короткометражки DICE (`DICE_trailer.mp4` и облегчённая версия) |
 | `src/`, `tools/` | код, которым всё сгенерировано |
 
 Ракурсы: `01_front` спереди, `02_back` сзади, `03_left` слева, `04_right` справа, `05_top` сверху
